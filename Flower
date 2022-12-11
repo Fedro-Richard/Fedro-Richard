@@ -89,6 +89,5 @@ def drawCircles(t,size,repeat):
         t.right(360/repeat)
 
 drawCircles(t4,40,10)
-
 turtle.done
 
